@@ -1,6 +1,6 @@
 main:
   - title: "Research"
-    url: /research/
+    url: _pages/research.md
   - title: "People"
     url: /categories/
   - title: "Lab and instruments"
