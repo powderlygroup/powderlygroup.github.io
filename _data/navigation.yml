@@ -1,9 +1,5 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "People"
-    url: /categories/
-  - title: "Lab and instruments"
-    url: /tags/
   - title: "Contact"
     url: /about/
