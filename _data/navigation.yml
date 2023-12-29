@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Research"
     url: /posts/
-  - title: "Categories"
+  - title: "People"
     url: /categories/
-  - title: "Tags"
+  - title: "Lab and instruments"
     url: /tags/
-  - title: "About"
+  - title: "Contact"
     url: /about/
