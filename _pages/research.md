@@ -4,7 +4,7 @@ title: "Research"
 author_profile: false
 layout: splash
 feature_row:
-  - image_path: /assets/Website_graphic_best.png
+  - image_path: /assets/images/Website_graphic_best.png
     alt: "Overview"
     title: "Overview"
 ---
